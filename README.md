@@ -21,7 +21,7 @@ Drum Kit is a digital drumming project that allows users to play drums using the
 **Technologies Used**
 >>HTML
 >>CSS
->>JavaScript
+>>Vanilla JavaScript
 
 
 **Contributions**
